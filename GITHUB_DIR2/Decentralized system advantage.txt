@@ -1,0 +1,3 @@
+Minimal problem of performance bottlenecks occurring – The entire load gets balanced on all the nodes; leading to minimal to no bottleneck situations
+High availability – Some nodes(computers, mobiles, servers) are always available/online for work, leading to high availability
+More autonomy and control over resources – As each node controls its own behavior, it has better autonomy leading to more control over resources

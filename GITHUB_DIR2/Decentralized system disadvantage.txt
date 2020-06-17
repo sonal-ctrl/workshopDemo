@@ -1,0 +1,3 @@
+May lead to problem of coordination at the enterprise level – When every node is owner of its own behavior, its difficult to achieve collective tasks
+Not suitable for small systems – Not beneficial to build and operate small decentralized systems because of low cost/benefit ratio
+No way to regulate a node on the system – no superior node overseeing the behavior of subordinate nodes
