@@ -1,0 +1,11 @@
+Start
+Centralized systems are systems that use client/server architecture where one or more client nodes are directly connected to a central server. This is the most commonly used type of system in many organisations where client sends a request to a company server and receives the response.
+
+
+
+Components of Centralized System –
+Components of Centralized System are,
+
+Node (Computer, Mobile, etc.).
+Server.
+Communication link (Cables, Wi-Fi, etc.).

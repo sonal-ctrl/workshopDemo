@@ -1,0 +1,4 @@
+Limitations of Centralized System –
+
+Can’t scale up vertically after a certain limit – After a limit, even if you increase the hardware and software capabilities of the server node, the performance will not increase appreciably leading to a cost/benefit ratio < 1.
+Bottlenecks can appear when the traffic spikes – as the server can only have a finite number of open ports to which can listen to connections from client nodes. So, when high traffic occurs like a shopping sale, the server can essentially suffer a Denial-of-Service attack or Distributed Denial-of-Service attack.
